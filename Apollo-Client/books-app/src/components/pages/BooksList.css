@@ -1,0 +1,22 @@
+.BooksList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.SingleBook {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.book {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+img {
+  border-radius: 1.25rem;
+}

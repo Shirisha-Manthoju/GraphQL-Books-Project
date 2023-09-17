@@ -1,7 +1,7 @@
 const books = [
     {
         id: "1",
-        title: "The Sword of Destiny",
+        title: "The Sword Of Destiny",
         price: 950.99,
         onSale: true,
         image: "https://m.media-amazon.com/images/I/81gAuHTwNsL._AC_UY327_FMwebp_QL65_.jpg",
@@ -9,10 +9,10 @@ const books = [
     },
     {
         id: "2",
-        title: "The Time Machine",
+        title: "Children Of Time",
         price: 345.99,
         onSale: false,
-        image: "https://m.media-amazon.com/images/I/71+n2VSAiXS._AC_UY327_FMwebp_QL65_.jpg",
+        image: "https://m.media-amazon.com/images/I/81WdWq49ZzL._AC_UY327_FMwebp_QL65_.jpg",
         categoryId: "502",
     },
     {
@@ -25,7 +25,7 @@ const books = [
     },
     {
         id: "4",
-        title: "The Complete Novel of Sherlock Holmes",
+        title: "The Complete Novel Of Sherlock Holmes",
         price: 740.45,
         onSale: false,
         image: "https://m.media-amazon.com/images/I/814BAk-r5HL._AC_UY327_FMwebp_QL65_.jpg",
@@ -33,7 +33,7 @@ const books = [
     },
     {
         id: "5",
-        title: "House of Salt and Sorrows",
+        title: "House Of Salt And Sorrows",
         price: 650.99,
         onSale: true,
         image: "https://m.media-amazon.com/images/I/A1ketA9rGxL._AC_UY327_FMwebp_QL65_.jpg",
@@ -57,7 +57,7 @@ const books = [
     },
     {
         id: "8",
-        title: "Beauty and The Beast",
+        title: "Beauty And The Beast",
         price: 677.99,
         onSale: false,
         image: "https://m.media-amazon.com/images/I/81GQJFgkvoL._AC_UY327_FMwebp_QL65_.jpg",
