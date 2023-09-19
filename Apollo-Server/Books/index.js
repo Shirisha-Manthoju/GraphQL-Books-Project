@@ -4,14 +4,15 @@ const { Query } = require("./resolvers/Query")
 const { db } = require("./db")
 const { Book } = require("./resolvers/Book")
 const { Category } = require("./resolvers/Category")
-
+const { Mutation } = require("./resolvers/Mutation")
 
 const server = new ApolloServer({
     typeDefs,
     resolvers: {
         Query,
         Book,
-        Category
+        Category,
+        Mutation
     },
     context: {
         db
